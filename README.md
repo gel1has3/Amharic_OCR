@@ -4,10 +4,10 @@ The goal is to recognize text inside a scanned digital image. "ዐዲስ፡ያ�
 
 http://gzamargna.net/html/amargnamezgebeqalat_578.html
 
-Input [Scanned document/Image]
+# Input [Scanned document/Image]
 ![n_amargnaMezgebeQalat_194](https://user-images.githubusercontent.com/17700070/179495310-76430f00-9d3f-4350-9620-7e7782c67f63.gif)
 
 
-Output [Text]
+# Output [Text]
 
 ![image](https://user-images.githubusercontent.com/17700070/179495375-0d7532df-6df6-438e-86e7-208bd8d426e9.png)
